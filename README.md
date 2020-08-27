@@ -35,7 +35,6 @@ This is a python 3 software dedicated to finding splicing events. It allows nove
     -h|--help           Prints this help.  
     
 <br></br> 
-<br></br>
  
 ## Required packages
 
